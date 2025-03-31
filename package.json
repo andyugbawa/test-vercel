@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/andyugbawa/test-vercel/issues"
   },
-  "homepage": "https://github.com/andyugbawa/test-vercel#readme"
+  "homepage": "https://github.com/andyugbawa/test-vercel#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
